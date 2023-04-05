@@ -19,4 +19,4 @@ Redis入门小册目前支持 `中文` 语言阅读。
 ***
 Powered by docsify
 
-© 2020-2022 panshenlian.com 版权所有  [豫ICP备2020034308号-1](https://beian.miit.gov.cn/)
+© 2020-2023 panshenlian.com 版权所有  [豫ICP备2020034308号-1](https://beian.miit.gov.cn/)
